@@ -1,0 +1,23 @@
+{
+  "usersCount": 1,
+  "users": [
+    {
+      "firstName": "first name",
+      "lastName": null,
+      "age": 20,
+      "soldProducts": {
+        "count": 2,
+        "products": [
+          {
+            "name": "Some name",
+            "price": 18.94
+          },
+          {
+            "name": "Some other name",
+            "price": 19.34
+          }
+        ]
+      }
+    }
+  ]
+}

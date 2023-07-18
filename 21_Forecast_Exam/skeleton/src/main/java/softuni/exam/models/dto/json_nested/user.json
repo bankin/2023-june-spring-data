@@ -1,0 +1,23 @@
+{
+  "usersCount": 35,
+  "users": [
+    {
+      "firstName": "Carl",
+      "lastName": "Daniels",
+      "age": 59,
+      "soldProducts": {
+        "count": 10,
+        "products": [
+          {
+            "name": "Finasteride",
+            "price": 1374.01
+          },
+          {
+            "name": "Finasteride",
+            "price": 1374.01
+          }
+        ]
+      }
+    }
+  ]
+}
